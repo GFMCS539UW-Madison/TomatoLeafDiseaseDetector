@@ -8,6 +8,7 @@ The proposed pipeline combines a leaf localizer, a 10-class disease classifier, 
 - [P2: Disease classifier](p2/README.md)
 - [P3: Leaf localizer and integration](p3/README.md)
 - [P4: Calibration and explanations](p4/README.md)
+- [Final: Integrated pipeline and results](final/README.md)
 
 Each member works on the corresponding `p1`, `p2`, `p3`, or `p4` branch. Integrated work and results belong in `final/`. Keep datasets out of the repository; use download scripts instead.
 
