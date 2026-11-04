@@ -1,0 +1,2 @@
+sample_id,label,split,color_path,segmented_path,color_size,segmented_size,review_status
+0db2da38-8650-461a-a785-814cc442f44d___Com.G_SpM_FL 1378,Tomato___Spider_mites Two-spotted_spider_mite,test,color/Tomato___Spider_mites Two-spotted_spider_mite/0db2da38-8650-461a-a785-814cc442f44d___Com.G_SpM_FL 1378.JPG,segmented/Tomato___Spider_mites Two-spotted_spider_mite/Com.G_SpM_FL 1378_final_masked.jpg,256x256,335x512,confirmed_by_P1_2026-11-04

@@ -1,0 +1,17 @@
+# Local dataset package (including raw data, manifests, and audit files)
+/ECE539_Tomato_Datasets/
+
+# Local proposal reference
+/ECE 539 Proposal_ Leaf-First Tomato Disease Assistant.md
+
+# macOS metadata
+.DS_Store
+
+# Local handoff images and optional generated outputs
+/p1/for_p2/color/
+/p1/for_p2/review/
+/p1/for_p2/new_findings/
+/p1/for_p4/segmented/
+
+# Local handoff archives
+/p1/**/*.zip
