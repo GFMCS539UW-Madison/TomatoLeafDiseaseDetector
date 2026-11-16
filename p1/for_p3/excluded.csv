@@ -1,0 +1,65 @@
+image_id,plantdoc_split,classes,n_boxes,image_path,exclusion_reason
+0.jpg,train,Bell_pepper leaf spot,6,PlantDoc/TRAIN/0.jpg,filename_shared_with_test
+0000.jpg,train,Bell_pepper leaf spot,2,PlantDoc/TRAIN/0000.jpg,filename_shared_with_test
+0042241.jpg,train,Potato leaf;Potato leaf early blight,10,PlantDoc/TRAIN/0042241.jpg,mixed_labels
+1200px-Late_blight_on_potato_leaf_2.jpg,train,Potato leaf;Potato leaf early blight,2,PlantDoc/TRAIN/1200px-Late_blight_on_potato_leaf_2.jpg,mixed_labels
+1421_0.jpeg?itok=FMtmgePj.jpg,train,Potato leaf early blight,1,PlantDoc/TRAIN/1421_0.jpeg_itok=FMtmgePj__c53ad8d4.jpg,filename_shared_with_test;byte_identical_to_test
+20020531-early%20blight%20%20starts%20on%20lower%20leaves.jpg,train,Tomato Early blight leaf;Tomato leaf,9,PlantDoc/TRAIN/20020531-early%20blight%20%20starts%20on%20lower%20leaves.jpg,mixed_labels
+20080526-_DSC4211.jpg,train,Tomato Early blight leaf;Tomato leaf,9,PlantDoc/TRAIN/20080526-_DSC4211.jpg,mixed_labels
+2013Corn_GrayLeafSpot_0815_0003.JPG.jpg,train,Corn Gray leaf spot,1,PlantDoc/TRAIN/2013Corn_GrayLeafSpot_0815_0003.JPG.jpg,filename_shared_with_test
+2015070295153021.jpg,train,Corn Gray leaf spot,1,PlantDoc/TRAIN/2015070295153021.jpg,filename_shared_with_test;byte_identical_to_test
+21-late%20blight-early%20symptoms%20potato.jpg,train,Potato leaf;Potato leaf early blight,5,PlantDoc/TRAIN/21-late%20blight-early%20symptoms%20potato.jpg,mixed_labels
+270412tglr-wild-strawberry-flowers-and-leaf-patch.jpg,train,,0,PlantDoc/TRAIN/270412tglr-wild-strawberry-flowers-and-leaf-patch.jpg,no_annotations
+5775225744523264.jpeg.jpg,train,Tomato Septoria leaf spot;Tomato leaf,4,PlantDoc/TRAIN/5775225744523264.jpeg.jpg,mixed_labels
+5816740026_d42ef24413_Phytophthora-Infestans.jpg,train,Potato leaf early blight,1,PlantDoc/TRAIN/5816740026_d42ef24413_Phytophthora-Infestans.jpg,filename_shared_with_test;byte_identical_to_test
+8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg,train,Tomato Early blight leaf;Tomato leaf,6,PlantDoc/TRAIN/8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg,mixed_labels
+Acorn_squash_leaves_155937_original.jpg?1472584664,train,,0,PlantDoc/TRAIN/Acorn_squash_leaves_155937_original.jpg_1472584664__4af49bcb.jpg,no_annotations
+Bacterial-leaf-spot-transplants1.jpg,train,Tomato leaf;Tomato leaf bacterial spot,3,PlantDoc/TRAIN/Bacterial-leaf-spot-transplants1.jpg,mixed_labels
+Black+Raspberry+Leaves+3.jpg,train,,0,PlantDoc/TRAIN/Black+Raspberry+Leaves+3.jpg,no_annotations
+Diseased-Tomato-Plant.jpg,train,Tomato Early blight leaf;Tomato leaf,4,PlantDoc/TRAIN/Diseased-Tomato-Plant.jpg,mixed_labels
+Downy%20mildew.JPG.jpg,train,,0,PlantDoc/TRAIN/Downy%20mildew.JPG.jpg,no_annotations
+Early-bligh_t.jpg,train,Tomato Early blight leaf;Tomato leaf,3,PlantDoc/TRAIN/Early-bligh_t.jpg,mixed_labels
+Early-blight-example.ashx?mw=250.jpg,train,,0,PlantDoc/TRAIN/Early-blight-example.ashx_mw=250__791c77fc.jpg,no_annotations
+Early-blight.jpg,train,Potato leaf early blight;Tomato Early blight leaf,4,PlantDoc/TRAIN/Early-blight.jpg,mixed_labels
+Fig-2.jpg,train,Tomato leaf;Tomato leaf mosaic virus,3,PlantDoc/TRAIN/Fig-2.jpg,mixed_labels
+Hydrangea+%2527Claudie%2527%252C+Powdery+Mildew.JPG.jpg,train,,0,PlantDoc/TRAIN/Hydrangea+%2527Claudie%2527%252C+Powdery+Mildew.JPG.jpg,no_annotations
+IMG_42231.jpg,train,Corn leaf blight,1,PlantDoc/TRAIN/IMG_42231.jpg,filename_shared_with_test;byte_identical_to_test
+NCLB.jpg,train,Corn leaf blight,2,PlantDoc/TRAIN/NCLB.jpg,image_missing
+SpotSpeckBlightMite-1l4v879.jpg,train,Tomato Early blight leaf;Tomato leaf bacterial spot;Tomato two spotted spider mites leaf,10,PlantDoc/TRAIN/SpotSpeckBlightMite-1l4v879.jpg,mixed_labels
+Tomato%20physiologic%20leaf%20roll1F.JPG.jpg,train,,0,PlantDoc/TRAIN/Tomato%20physiologic%20leaf%20roll1F.JPG.jpg,no_annotations
+ac-0018.pdf-2_2.jpg,train,,0,PlantDoc/TRAIN/ac-0018.pdf-2_2.jpg,no_annotations
+aquilegia-powdery-mildew-erysiphe-aquilegiae-on-columbine-leaves-bga5xr.jpg,train,,0,PlantDoc/TRAIN/aquilegia-powdery-mildew-erysiphe-aquilegiae-on-columbine-leaves-bga5xr.jpg,no_annotations
+backus-056-potato-blight.jpg,train,Potato leaf late blight,4,PlantDoc/TRAIN/backus-056-potato-blight.jpg,filename_shared_with_test;byte_identical_to_test
+bacterial-canker3x2400-2ia1kgd.jpg,train,Tomato leaf bacterial spot,1,PlantDoc/TRAIN/bacterial-canker3x2400-2ia1kgd.jpg,near_duplicate_of_test
+blueberry-leaves-normal-above-and-iron-deficient-below-bgahf8.jpg,train,Blueberry leaf,1,PlantDoc/TRAIN/blueberry-leaves-normal-above-and-iron-deficient-below-bgahf8.jpg,filename_shared_with_test;byte_identical_to_test
+comparing-diseases-4-canker-tomato-1y51ejs.jpg,train,Tomato Early blight leaf;Tomato leaf bacterial spot;Tomato two spotted spider mites leaf,11,PlantDoc/TRAIN/comparing-diseases-4-canker-tomato-1y51ejs.jpg,mixed_labels
+corn-gray-leaf-spot-f4.jpg,train,Corn Gray leaf spot,1,PlantDoc/TRAIN/corn-gray-leaf-spot-f4.jpg,filename_shared_with_test;byte_identical_to_test
+dscn3168.jpg,train,Tomato Early blight leaf;Tomato leaf,19,PlantDoc/TRAIN/dscn3168.jpg,mixed_labels
+early-blight-1-la_potatoleaf.jpg,train,,0,PlantDoc/TRAIN/early-blight-1-la_potatoleaf.jpg,no_annotations
+early-blight-1.jpg,train,Potato leaf early blight,6,PlantDoc/TRAIN/early-blight-1.jpg,image_missing
+early-blight-septoria-ls-fig-3.jpg,train,Tomato Septoria leaf spot,2,PlantDoc/TRAIN/early-blight-septoria-ls-fig-3.jpg,filename_shared_with_test;byte_identical_to_test
+early_blight_tomato.jpg,train,Tomato Early blight leaf;Tomato leaf,8,PlantDoc/TRAIN/early_blight_tomato.jpg,mixed_labels
+earlyblightpotato.jpg,train,Tomato Early blight leaf,1,PlantDoc/TRAIN/earlyblightpotato.jpg,filename_shared_with_test;near_duplicate_of_test
+gn201410308259997ar-jpg.jpg,train,Tomato Early blight leaf;Tomato leaf,4,PlantDoc/TRAIN/gn201410308259997ar-jpg.jpg,mixed_labels
+image.jpg,train,Corn leaf blight,1,PlantDoc/TRAIN/image.jpg,filename_shared_with_test
+image_%281%29.jpg?1438794239,train,,0,PlantDoc/TRAIN/image_%281%29.jpg_1438794239__bf5eca4c.jpg,no_annotations
+image_1500x1500%253E.jpg?1472881613,train,,0,PlantDoc/TRAIN/image_1500x1500%253E.jpg_1472881613__9d5105bb.jpg,no_annotations
+irish-blight-symptoms-on-potato-leaves-atmf8b.jpg,train,Potato leaf early blight,2,PlantDoc/TRAIN/irish-blight-symptoms-on-potato-leaves-atmf8b.jpg,filename_shared_with_test;byte_identical_to_test
+late_blight1.jpg,train,Tomato leaf late blight,1,PlantDoc/TRAIN/late_blight1.jpg,near_duplicate_of_test
+late_blight_tomato_leaf4x1200.jpg,train,Tomato leaf;Tomato leaf late blight,10,PlantDoc/TRAIN/late_blight_tomato_leaf4x1200.jpg,mixed_labels
+maxresdefault.jpg,train,Potato leaf early blight;Potato leaf late blight,5,PlantDoc/TRAIN/maxresdefault.jpg,mixed_labels
+nclb-2016-tytorrence.jpg?w=500&h=889,train,,0,PlantDoc/TRAIN/nclb-2016-tytorrence.jpg_w=500&h=889__f009b236.jpg,no_annotations
+pm1_600px.jpg,train,,0,PlantDoc/TRAIN/pm1_600px.jpg,no_annotations
+potato_ocw_lateblight-earlyblight.jpg,train,Potato leaf early blight;Potato leaf late blight,2,PlantDoc/TRAIN/potato_ocw_lateblight-earlyblight.jpg,mixed_labels
+powdery-mildew-erysiphe-plantani-on-young-sycamore-leaf-b372wn.jpg,train,,0,PlantDoc/TRAIN/powdery-mildew-erysiphe-plantani-on-young-sycamore-leaf-b372wn.jpg,no_annotations
+powdery-mildew-on-squash-leaves.jpg,train,Squash Powdery mildew leaf,3,PlantDoc/TRAIN/powdery-mildew-on-squash-leaves.jpg,image_missing
+powdery-mildew-on-squash-leaves.jpg?w=300&h=200,train,,0,PlantDoc/TRAIN/powdery-mildew-on-squash-leaves.jpg_w=300&h=200__6d7c37b4.jpg,no_annotations
+powdery_mildew2_by_pollinator-wikimedia_commons.jpg?itok=PnSi4Nfy,train,,0,PlantDoc/TRAIN/powdery_mildew2_by_pollinator-wikimedia_commons.jpg_itok=PnSi4Nfy__a5f86841.jpg,no_annotations
+powdery_mildew_002_full_width.jpg?itok=lKNpiywu,train,,0,PlantDoc/TRAIN/powdery_mildew_002_full_width.jpg_itok=lKNpiywu__23a7eef5.jpg,no_annotations
+raspberries.jpg,train,,0,PlantDoc/TRAIN/raspberries.jpg,no_annotations
+raspberry-db.jpg,train,,0,PlantDoc/TRAIN/raspberry-db.jpg,no_annotations
+tdisease_1.jpg,train,,0,PlantDoc/TRAIN/tdisease_1.jpg,no_annotations
+tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,train,Tomato leaf late blight,1,PlantDoc/TRAIN/tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,near_duplicate_of_test
+tomato_D4a-TobRingspotVirus-1000077_zoom.jpg,train,,0,PlantDoc/TRAIN/tomato_D4a-TobRingspotVirus-1000077_zoom.jpg,no_annotations
+tomato_V8.jpg,train,Tomato Septoria leaf spot,2,PlantDoc/TRAIN/tomato_V8.jpg,filename_shared_with_test;byte_identical_to_test
+tylcv-seminar-1-638.jpg,train,Tomato leaf yellow virus,5,PlantDoc/TRAIN/tylcv-seminar-1-638.jpg,filename_shared_with_test;byte_identical_to_test

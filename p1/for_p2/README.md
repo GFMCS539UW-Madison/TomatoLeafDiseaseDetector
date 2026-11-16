@@ -102,7 +102,10 @@ defect rate. None changed the color classification data or labels.
 
 Segmented images must not be assumed to provide accurate leaf masks for the
 background-only diagnostic. The two black-background color images may also
-introduce class-correlated background cues in ordinary classification.
+introduce class-correlated background cues in ordinary classification. A later
+full pass found 151 such Late-blight color images (91 train, 20 val, 38 test,
+2 excluded) and none in other classes; see `dark_background_in_color` in
+[background_flags.csv](../for_p4/background_flags.csv).
 
 ## Scripts
 
@@ -139,5 +142,5 @@ This overwrites only `review/`, with sampled images and their source paths in
 default all-split sample is for data quality inspection, not model tuning.
 
 The source dataset is [PlantVillage](https://github.com/spMohanty/PlantVillage-Dataset).
-This handoff covers its tomato subset only; PlantDoc field fine-tuning data is
-outside this package.
+This handoff covers its tomato subset only. PlantDoc field fine-tuning data
+(field-train, field-dev, boxes and class map) is in [for_p3](../for_p3/README.md).

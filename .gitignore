@@ -12,6 +12,12 @@
 /p1/for_p2/review/
 /p1/for_p2/new_findings/
 /p1/for_p4/segmented/
+/p1/for_p4/background_only/
+/p1/for_p4/background_masks.csv
+/p1/for_p3/PlantDoc/
+/p1/for_p3/review/
+/p1/for_p3/new_manifests/
+/p1/for_p3/duplicate_review.html
 
 # Local handoff archives
 /p1/**/*.zip
